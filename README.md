@@ -2,7 +2,7 @@ Luxe Horizon Travel – Luxury Travel Agency Landing Page
 
 A modern, elegant landing page concept for a boutique travel agency. Built with clean HTML, CSS, and JavaScript, with a strong focus on design, clarity, and responsive layout.
 
-🔗 Live Demo: https://gregarious-tartufo-54845d.netlify.app
+🔗 Live Demo: https://luxe-horizon-travel.netlify.app/
 
 (Replace this link if you redeploy to a new Netlify URL.)
 
